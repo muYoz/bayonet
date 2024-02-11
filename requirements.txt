@@ -26,7 +26,7 @@ tld==0.9.3
 Flask_RESTful==0.3.8
 aiomultiprocess==0.7.0
 beautifulsoup4==4.8.2
-dnspython==1.16.0
+dnspython==2.6.0rc1
 Pillow==7.0.0
 secrets==1.0.2
 psycopg2
