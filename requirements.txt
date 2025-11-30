@@ -21,7 +21,7 @@ fire==0.2.1
 geoip2==3.0.0
 shodan==1.21.3
 Flask_SQLAlchemy==2.4.1
-Werkzeug==1.0.0
+Werkzeug==3.1.4
 tld==0.9.3
 Flask_RESTful==0.3.8
 aiomultiprocess==0.7.0
